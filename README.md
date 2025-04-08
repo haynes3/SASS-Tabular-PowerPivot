@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/5b603700-5170-4ca4-a1b6-16f82270fee3)
+
+
 # Business Intelligence Assessment
 
 This project involves creating a range of values for the "Year Opened" field in the Reseller dimension of the DB661 database. The task must be performed using MS SQL Server Analysis Services (SSAS) with the Tabular Model or PowerPivot.
@@ -29,19 +32,19 @@ PowerPivot or Tabular Model: Ensure that the solution uses PowerPivot or SSAS Ta
 
 # Steps to Complete the Task
 
-Create the Year Range Logic: 
+### Create the Year Range Logic: 
 
   Use DAX to define the year range for the "Year Opened" field.
 
   The DAX code should categorize each reseller into the appropriate year range.
 
-Set Up PowerPivot or Tabular Model:
+### Set Up PowerPivot or Tabular Model:
 
   Load the DB661 database into PowerPivot or SSAS Tabular.
 
   Apply the DAX measure to create the necessary Year Range field.
 
-Use Pivot Tables in Excel:
+### Use Pivot Tables in Excel:
 
   Connect the model to Excel via PowerPivot.
 
